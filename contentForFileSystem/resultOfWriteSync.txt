@@ -1,0 +1,7 @@
+Here is the result of first and second file:
+ 
+Hello this is the first sample text file.
+Hello this is the second sample text file.
+
+
+This text has been appended to already existing file because append flag was provided

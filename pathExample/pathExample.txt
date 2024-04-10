@@ -1,0 +1,1 @@
+This is used to showcase how path.join method returns the file path using platform specific seperator.
